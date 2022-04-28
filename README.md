@@ -29,3 +29,7 @@ Online Quiz is Online Test Application platform which enables users to test thei
 - <b>JSON</b><br>
 - <b>TypeScript</b><br>
 - <b>VsCode(Editor)</b>
+##Flow Chart
+==============
+![Flowchrat](https://user-images.githubusercontent.com/85355371/165694882-29ce68dc-1b24-4218-b3af-476950b1c2ec.png)
+
